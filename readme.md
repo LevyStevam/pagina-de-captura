@@ -2,9 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto construído do evento next week level da Rocketseat.
-
-[link do projeto](https://levystevam.github.io/Site-NLW/)
+[link do projeto](https://levystevam.github.io/pagina-de-captura/)
 
 ## Tecnologias: 
  
